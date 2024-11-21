@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #auth, #game {
+    margin-top: 50px;
+  }
+  
+  input {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  button {
+    margin: 10px;
+  }
+  
